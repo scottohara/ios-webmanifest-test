@@ -1,0 +1,30 @@
+{
+	"name": "PWA Test",
+	"short_name": "PWA Test",
+	"description": "Testing changes to webmanifest",
+	"start_url": "./index.html",
+	"display": "standalone",
+	"theme_color": "#F00",
+	"icons": [
+		{
+			"src": "120-red.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "152-red.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "167-red.png",
+			"sizes": "167x167",
+			"type": "image/png"
+		},
+		{
+			"src": "180-red.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		}
+	]
+}
