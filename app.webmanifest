@@ -7,22 +7,22 @@
 	"theme_color": "#F00",
 	"icons": [
 		{
-			"src": "120-red.png",
+			"src": "120-green.png",
 			"sizes": "120x120",
 			"type": "image/png"
 		},
 		{
-			"src": "152-red.png",
+			"src": "152-green.png",
 			"sizes": "152x152",
 			"type": "image/png"
 		},
 		{
-			"src": "167-red.png",
+			"src": "167-green.png",
 			"sizes": "167x167",
 			"type": "image/png"
 		},
 		{
-			"src": "180-red.png",
+			"src": "180-green.png",
 			"sizes": "180x180",
 			"type": "image/png"
 		}
