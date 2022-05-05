@@ -4,7 +4,7 @@
 	"description": "Testing changes to webmanifest",
 	"start_url": "./index.html",
 	"display": "standalone",
-	"theme_color": "#F00",
+	"theme_color": "#0F0",
 	"icons": [
 		{
 			"src": "120-green.png",
